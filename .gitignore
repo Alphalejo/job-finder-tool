@@ -8,6 +8,7 @@ Data/*
 Data/jobs.json
 Data/cache.json
 Data/legacy.json
+App_log/*
 
 # Environment variables / API Keys
 .env
